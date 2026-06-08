@@ -8,6 +8,8 @@ A premium, modern, responsive website for **Conant Handyman Service LLC**, a pro
 
 ## 🎨 Preview
 
+![Conant Handyman Service Website Preview](assets/website-screenshot.png)
+
 The website features a clean, forest-green and earthy-sand color palette, modern typography, custom animations, and a fully mobile-responsive design tailored to showcase home repair services and capture customer leads.
 
 - **Business Name:** Conant Handyman Service LLC
